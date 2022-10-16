@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    
+    .dual{
+        border: 3px solid rgb(13, 14, 13);
+        padding: 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .first{
+        border: 2px solid rgb(0, 26, 255);
+    }
+    .second{
+        border: 2px solid rgb(255, 0, 242);
+    }
+
+}

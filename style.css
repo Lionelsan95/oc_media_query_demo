@@ -1,0 +1,10 @@
+.dual{
+    border: 3px solid green;
+    padding: 5px;
+}
+.first{
+    border: 2px solid red;
+}
+.second{
+    border: 2px solid yellow;
+}
